@@ -15,4 +15,4 @@ This project is a calculator application that offers three types of calculators:
 
 ## Getting Started
 1. Clone the repository: 
-   ```bash https://github.com/sohilaelabasy/calculator-application.git
+    https://github.com/sohilaelabasy/calculator-application.git
